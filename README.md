@@ -60,7 +60,7 @@ percolation-threshold-monte-carlo/
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/seu-usuario/percolation-threshold-monte-carlo.git
+git clone https://github.com/KleberMouraJr89/percolation-threshold-monte-carlo.git
 
 2. Enter the project directory
 cd percolation-threshold-monte-carlo
