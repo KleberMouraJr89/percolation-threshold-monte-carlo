@@ -46,7 +46,8 @@ The simulation produces:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+```
 percolation-threshold-monte-carlo/
 │
 ├── WeightedQuickUnionUF.py # Disjoint-set structure (Union-Find)
@@ -54,9 +55,9 @@ percolation-threshold-monte-carlo/
 ├── MonteCarloSimulation.ipynb # Simulation engine (main)
 ├── README.md
 └── Requirements.txt
+```
 
-
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 git clone https://github.com/seu-usuario/percolation-threshold-monte-carlo.git
